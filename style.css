@@ -1,0 +1,74 @@
+* {
+    font-family: phetsarath ot;
+}
+
+h2.a {
+    font-family: phetsarath OT;
+    background-color: rgb(0, 153, 89);
+    color: white;
+    font-size: 27px;
+    margin: 100px;
+    border-radius: 35px;
+}
+
+h3 {
+    font-family: "phetsarath OT";
+    color: white;
+}
+
+body {
+    background: burlywood;
+}
+
+table, tr, th {
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: rgb(0, 153, 89);
+}
+
+img {
+    border-radius: 70%;
+    text-align: center;
+    box-shadow: 2px 3px 70px rgb(192, 255, 3);
+}
+
+button:hover {
+    background-color: rgb(0, 153, 89);
+    font-size: 20px;
+}
+
+button {
+    background-color: rgb(255, 200, 106);
+    border-radius: 27px;
+    font-family: phetsarath ot;
+}
+body {font-family:phetsarath ot;margin:110px}
+	h1.a {	background-color:rgb(132, 216, 255);
+	     text-align:center;
+	      font-size:40px;color:rgb(255, 255, 255)
+  			;border-radius: 10px;
+		  }
+	body{background-image:url('by.jpg')
+	      ;background-size:cover;
+		  }
+
+    .a{padding: 0 25px;}
+
+	button{
+				background-color:rgb(255, 200, 106);
+			   border-radius: 20px;font-family: phetsarath ot;
+			}
+
+			img{border-radius: 20px;
+			text-align: center;
+			box-shadow: 2px 3px 70px rgb(243, 208, 9);}
+
+			table,tr,th{border: 2px solid rgb(0, 0, 0);
+			border-collapse: collapse;
+			background-color:rgb(255, 200, 106);
+			}
+			p,p.a{text-align: center;}
+			button:hover{
+				background: rgb(241, 149, 2);
+			font-size: 15px;
+			}	
